@@ -11,4 +11,7 @@ node {
     stage('Deploy') {
         echo 'Deploying....'
     }
+    stage('Deploy1') {
+        echo 'Deploying1....'
+    }
 }
