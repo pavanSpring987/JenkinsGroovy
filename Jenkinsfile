@@ -1,5 +1,5 @@
 node {
-    stage('SCM') {
+    stage('SCM1') {
 	echo 'Gathering code from version control'
     }
     stage('Build') {
